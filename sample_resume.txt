@@ -1,0 +1,14 @@
+John Doe
+
+Skills:
+Python
+Linux
+Networking
+Docker
+
+Experience:
+Network Engineer Trainee
+
+Projects:
+Built internal monitoring dashboards.
+Automated network audits using Python.
